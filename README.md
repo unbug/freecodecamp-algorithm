@@ -1,3 +1,4 @@
 Solutions for FreeCodeCamp's algorithm challenges
 =================
- - [Basic Algorithm Scripting](https://www.freecodecamp.com/map-aside#nested-collapseBasicAlgorithmScripting) - [Solutions](/basic)
+ - [Solutions](/basic) for [Basic Algorithm Scripting](https://www.freecodecamp.com/map-aside#nested-collapseBasicAlgorithmScripting)
+ - [Solutions](/intermediate) for [Intermediate Algorithm Scripting](https://www.freecodecamp.com/map-aside#nested-collapseIntermediateAlgorithmScripting)
